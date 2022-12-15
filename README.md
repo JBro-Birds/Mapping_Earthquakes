@@ -12,6 +12,7 @@ The webpage with multiple base maps, overlays, layer controls and a legend was s
 
 ![map_screenshot](https://raw.githubusercontent.com/JBro-Birds/Mapping_Earthquakes/master/support_images/map_screenshot.png)
 
+Map and overlay choices appear when user places cursor on upper right overlay image:
 
-
+![user_control_layers](https://raw.githubusercontent.com/JBro-Birds/Mapping_Earthquakes/master/support_images/user_control_layers.png)
 
