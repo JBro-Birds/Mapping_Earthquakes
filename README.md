@@ -10,5 +10,8 @@ The purpose of this project is to visually show the differences between the magn
 The webpage with multiple base maps, overlays, layer controls and a legend was successfully constructed as shown below:
 
 
-![web_page](https://raw.githubusercontent.com/JBro-Birds/Belly-Button-Biodiversity/master/images/web_page.png)
+![map_screenshot](https://raw.githubusercontent.com/JBro-Birds/Mapping_Earthquakes/master/support_images/map_screenshot.png)
+
+
+
 
